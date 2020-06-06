@@ -1,2 +1,2 @@
 # PHP-PDO
-Basic PHP PDO syntax
+Basic PHP PDO Guide
